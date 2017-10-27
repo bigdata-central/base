@@ -1,0 +1,2 @@
+# bdc-base
+Base image
